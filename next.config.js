@@ -2,6 +2,6 @@
 
 module.exports = {
   images: {
-    domains: ['utfs.io'],
+    domains: ['uploadthing.com',"utfs.io"],
   },
-}
+};
