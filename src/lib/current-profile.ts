@@ -1,4 +1,4 @@
-import { auth } from '@clerk/nextjs';
+import { auth ,authMiddleware} from '@clerk/nextjs';
 
 import { db } from "./db";
 
